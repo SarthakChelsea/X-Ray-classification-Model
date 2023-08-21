@@ -55,7 +55,7 @@ The project is structured as follows:
 
 2. Model Building:
    - Load the pre-trained VGG16 model without its top layers.
-   - Add custom fully connected layers for classification on top of VGG16 base.
+   - Add custom fully connected layers for classification on top of the VGG16 base.
    - Compile the model with appropriate loss function and optimizer.
 
 3. Model Training:
@@ -68,7 +68,7 @@ The project is structured as follows:
      
 5. GRADCAM Visualization:
    - Implement the GRADCAM algorithm to generate heatmaps.
-   - Apply the algorithm to selected COVID-19 positive X-ray images.
+   - Apply the algorithm to selected COVID-19-positive X-ray images.
    - Overlay the generated heatmaps onto the original images.
 
 
@@ -79,5 +79,5 @@ achieving an accuracy of 87% on the test set. Additionally, the application of G
 indicative of COVID-19 presence within X-ray images. The project contributes to the field of medical imaging analysis and could potentially aid healthcare professionals
 in accurate and efficient disease diagnosis.
 
-![image](https://drive.google.com/uc?export=view&id=16KgGYux4NvdY28Mz0uHFbVJ14H1-pepV)
+![Banner](https://drive.google.com/uc?export=view&id=16KgGYux4NvdY28Mz0uHFbVJ14H1-pepV)
 
