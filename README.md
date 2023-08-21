@@ -3,7 +3,7 @@
 ## Introduction
 
 This project aims to classify X-ray images into two categories: pneumonia/COVID-19, and normal. The classification is performed using a VGG16 transfer learning model, 
-which has been pre-trained on a large dataset and fine-tuned for this specific task. Additionally, the project involves analyzing COVID-19/pnuemonia spots within X-ray images 
+which has been pre-trained on a large dataset and fine-tuned for this specific task. Additionally, the project involves analyzing COVID-19/pneumonia spots within X-ray images 
 using GRADCAM visualizations. The data source is Kaggle :(https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
 ![image](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-27266-9/MediaObjects/41598_2022_27266_Fig1_HTML.png)
@@ -82,7 +82,9 @@ in accurate and efficient disease diagnosis.
 ![Banner](https://drive.google.com/uc?export=view&id=16KgGYux4NvdY28Mz0uHFbVJ14H1-pepV)
 
 ## References:
-Project Reference: (https://www.youtube.com/watch?v=OFF2iW73wZg)
-Data Reference: (https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
+1. Project Reference: (https://www.youtube.com/watch?v=OFF2iW73wZg)
+
+
+2. Data Reference: (https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
 
