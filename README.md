@@ -4,7 +4,7 @@
 
 This project aims to classify X-ray images into two categories: pneumonia/COVID-19, and normal. The classification is performed using a VGG16 transfer learning model, 
 which has been pre-trained on a large dataset and fine-tuned for this specific task. Additionally, the project involves analyzing COVID-19/pnuemonia spots within X-ray images 
-using GRADCAM visualizations.
+using GRADCAM visualizations. The data source is Kaggle :(https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
 ![image](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-27266-9/MediaObjects/41598_2022_27266_Fig1_HTML.png)
 
