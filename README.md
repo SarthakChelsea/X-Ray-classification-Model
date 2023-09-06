@@ -1,4 +1,4 @@
-# X-Ray Classification Project using VGG16 Transfer Learning Model
+# X-Ray Classification Project with GRADCAM Visualization
 
 ## Introduction
 
